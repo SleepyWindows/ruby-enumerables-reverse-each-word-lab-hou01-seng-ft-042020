@@ -1,4 +1,4 @@
 def reverse_each_word (string)
-  string.reverse {|a| p a}
+  new_string = string.split
 
 end
